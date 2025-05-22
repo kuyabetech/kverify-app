@@ -1,0 +1,17 @@
+/* The following lines require Tailwind CSS and PostCSS setup to work.
+   If you see 'Unknown at rule @tailwind', ensure your build tool is configured for Tailwind.
+   Otherwise, remove these lines and include the compiled Tailwind CSS instead. */
+/* Tailwind CSS directives removed. Make sure to include the compiled Tailwind CSS in your HTML or via import. */
+
+/* Custom styles for login card */
+.custom-login-card {
+  /* Example: add a subtle drop shadow and border for extra emphasis */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.10);
+  border-width: 1px;
+  border-color: #e5e7eb;
+}
+
+.custom-input {
+  /* Example: custom focus border color */
+  border-color: #006747;
+}
